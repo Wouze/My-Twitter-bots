@@ -1,45 +1,59 @@
 # My-Twitter-bots
 **Welcome to my Twitter bots preview page!**
 - This repo is for archiving *most* of my Twitter bots I have made.
+- Unfortunately, after Elon takeover, the API's prices gone up by ALOT, ALOT ALOT.
+- Thats why most of these bots and websites are not working :(.  
+- The free plan has write-only access, and the cheapest plan now costs 100$/month! And at the same time doesn't give as much access as the old free one!
+- Literally the same old free API limits now costs $5k/month!!!!!!
+- BRUH
 ## Types of bots
 **There are 2 type of bots I have made**
-### Website based bots
+### [Website based bots](#website-twitter-bots)
 These bots uses OAuth to connect with account and do stuff with it!
 
-[Account based bots](#twitter-accounts-bots)
+### [Account based bots](#twitter-accounts-bots)
 These bots basically runs using the actual Twitter account
+- Tic Tac T
+- [Connect 4](#connect-4)
 
 
-These bots basically runs using the actual Twitter account
+
+# Website Twitter bots
+This section is for bots that are based on the web and use OAuth to log the user account to it
+## Mishkat Al-eilm
+- This is my most favorate bot of all time, it uses Twtiter OAuth to connect to the account and tweet daily Ayah, Hadith or any good words in your twitter account!
+- It had more than 200 users connected with it, and I have made a Telegram bot for it too!
+  
+![image](https://github.com/user-attachments/assets/5ebfbaeb-d981-412d-84ee-7992a73be5d6)
+
+![image](https://github.com/user-attachments/assets/002e8279-d00e-4ec1-a0f1-fb228a29033d)
+
+## Mishkat Al-eilm website
+- For the website, I've purchased domain from Google Domains, and made a simple ui, then pushed it to heroku!
+- it has Sign, Sign out and check content
+  ![image](https://github.com/user-attachments/assets/b0adbf14-d3de-40b2-9233-d57492b38431)
+- Connecting to the bot as easy as 2 clicks!
+- ![image](https://github.com/user-attachments/assets/03a12140-4551-4366-94d7-c858ad3d2445)
+- ![image](https://github.com/user-attachments/assets/e2ea6987-efe9-4504-a183-79841c932cfe)
+### Telegram bot
+It also has telegram bot!
+![image](https://github.com/user-attachments/assets/3c2f36ea-d34a-45c7-99c4-16ef7b635434)
+![image](https://github.com/user-attachments/assets/70c68cda-2125-4582-8869-8be4663ca9c7)
+
+### **🔧 Technologies Used 🔧**
+- Twitter API
+- Telegram API
+- Cloud services
+- Postgress sql
+- Flask
 
 
-These bots basically runs using the actual Twitter account
-
-
-These bots basically runs using the actual Twitter account
-
-
-These bots basically runs using the actual Twitter account
-
-
-These bots basically runs using the actual Twitter account
-
-
-These bots basically runs using the actual Twitter account
-
-
-These bots basically runs using the actual Twitter account
-
-
-These bots basically runs using the actual Twitter account
-
-
-These bots basically runs using the actual Twitter account
-
-
+  
 
 # Twitter accounts bots
 This section is for bots that works using the Twitter bot account at Twitter!
+[Game bots](#game-bots)
+[Functionallity bots](#functionallity-bots)
 
 # Game bots
 
