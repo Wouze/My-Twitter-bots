@@ -6,12 +6,39 @@
 ### Website based bots
 These bots uses OAuth to connect with account and do stuff with it!
 
-[Account based bots](#Twitter-accounts-bots!)
+[Account based bots](#twitter-accounts-bots)
+These bots basically runs using the actual Twitter account
+
+
+These bots basically runs using the actual Twitter account
+
+
+These bots basically runs using the actual Twitter account
+
+
+These bots basically runs using the actual Twitter account
+
+
+These bots basically runs using the actual Twitter account
+
+
+These bots basically runs using the actual Twitter account
+
+
+These bots basically runs using the actual Twitter account
+
+
+These bots basically runs using the actual Twitter account
+
+
+These bots basically runs using the actual Twitter account
+
+
 These bots basically runs using the actual Twitter account
 
 
 
-# Twitter accounts bots!
+# Twitter accounts bots
 This section is for bots that works using the Twitter bot account at Twitter!
 
 # Game bots
