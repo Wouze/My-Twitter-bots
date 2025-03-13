@@ -10,12 +10,16 @@
 **There are 2 type of bots I have made**
 ### [Website based bots](#website-twitter-bots)
 These bots uses OAuth to connect with account and do stuff with it!
+- [Mishkat Al-Eilm](#mishkat-al-eilm)
+- [Karshah bot](#karshah)
 
 ### [Account based bots](#twitter-accounts-bots)
 These bots basically runs using the actual Twitter account
-- Tic Tac T
-- [Connect 4](#connect-4)
-
+- [Connect 4 Game](#connect-4)
+- [Tic Tac Toe Game](#tic-tac-toe)
+- [Color this](#color-this)
+- [Pixel this](#pixel-this)
+- [Others](#others)
 
 
 # Website Twitter bots
@@ -47,8 +51,19 @@ It also has telegram bot!
 - Postgress sql
 - Flask
 
+# Karshah
+- This is, the beloved, (#تم_تعبئة_الكرش_بنجاح) bot, in Twitter!!
+- This bot will tweet the meme image at your account, based on your city's Magrib pray time!
+- The website uses your IP address location to get your approximate Magrib pray time, then post random image after 10 minutes of Adan!
 
-  
+  ![image](https://github.com/user-attachments/assets/a76fe1c0-8690-4278-8952-07a678e2da4b)
+  ![image](https://github.com/user-attachments/assets/e2823b57-576b-49ab-951f-19ddc6476ef4)
+
+  ![image](https://github.com/user-attachments/assets/d668f036-1706-48e0-9382-787dad3e85f1)
+
+
+
+
 
 # Twitter accounts bots
 This section is for bots that works using the Twitter bot account at Twitter!
@@ -113,4 +128,17 @@ I have made bots that are somehow usefull!
 - Image processing
 - AI
 
+  
+## **Pixel This**
+  this is one of the best bots I have ever made, it takes any black and white photo, then color it using AI, then send the results back!
 
+
+- Just mention the bot and it will work on the images!
+
+
+### **🔧 Technologies Used 🔧**
+- Twitter API
+- Image processing
+- AI
+
+## Others
