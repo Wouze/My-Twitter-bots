@@ -12,6 +12,8 @@
 These bots uses OAuth to connect with account and do stuff with it!
 - [Mishkat Al-Eilm](#mishkat-al-eilm)
 - [Karshah bot](#karshah)
+- [Private exposer](#private-exposer)
+- [Other](#other)
 
 ### [Account based bots](#twitter-accounts-bots)
 These bots basically runs using the actual Twitter account
@@ -58,17 +60,34 @@ It also has telegram bot!
 
   ![image](https://github.com/user-attachments/assets/a76fe1c0-8690-4278-8952-07a678e2da4b)
   ![image](https://github.com/user-attachments/assets/e2823b57-576b-49ab-951f-19ddc6476ef4)
-
   ![image](https://github.com/user-attachments/assets/d668f036-1706-48e0-9382-787dad3e85f1)
 
+### **🔧 Technologies Used 🔧**
+- Twitter API
+- Clock managment
+- Cloud services
+- Postgress sql
+- Flask
 
+# Private Exposer
+- This website is made to show you the private accounts that follow's you, but you dont follow them.
+  ![image](https://github.com/user-attachments/assets/796b6c90-24bc-4473-870b-647a1a877d08)
+  ![image](https://github.com/user-attachments/assets/3b246430-f15f-4eac-acd6-fc1a0c079906)
+  ![image](https://github.com/user-attachments/assets/e862c6d2-0814-471a-88eb-384b57012dc1)
 
+### **🔧 Technologies Used 🔧**
+- Twitter API
+- Cloud services
+- Flask
+
+# Other
+### I have made many other website based bots, one of them is troll website to take the api access keys from an account that I know his owner, then play with them as if I'm logged in to the account! lol.
 
 
 # Twitter accounts bots
 This section is for bots that works using the Twitter bot account at Twitter!
-[Game bots](#game-bots)
-[Functionallity bots](#functionallity-bots)
+- [Game bots](#game-bots)
+- [Functionallity bots](#functionallity-bots)
 
 # Game bots
 
