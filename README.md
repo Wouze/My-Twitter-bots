@@ -64,6 +64,8 @@ It also has telegram bot!
   ![image](https://github.com/user-attachments/assets/a76fe1c0-8690-4278-8952-07a678e2da4b)
   ![image](https://github.com/user-attachments/assets/e2823b57-576b-49ab-951f-19ddc6476ef4)
   ![image](https://github.com/user-attachments/assets/d668f036-1706-48e0-9382-787dad3e85f1)
+  ![image_2025-03-13_04-43-53](https://github.com/user-attachments/assets/4c21a6ff-5b04-4d99-b819-6988479d7781)
+
 
 ### **🔧 Technologies Used 🔧**
 - Twitter API
