@@ -26,6 +26,8 @@ These bots basically runs using the actual Twitter account
 
 # Website Twitter bots
 This section is for bots that are based on the web and use OAuth to log the user account to it
+
+# ==========================================
 ## Mishkat Al-eilm
 - This is my most favorate bot of all time, it uses Twtiter OAuth to connect to the account and tweet daily Ayah, Hadith or any good words in your twitter account!
 - It had more than 200 users connected with it, and I have made a Telegram bot for it too!
@@ -34,7 +36,7 @@ This section is for bots that are based on the web and use OAuth to log the user
 
 ![image](https://github.com/user-attachments/assets/002e8279-d00e-4ec1-a0f1-fb228a29033d)
 
-## Mishkat Al-eilm website
+### Mishkat Al-eilm website
 - For the website, I've purchased domain from Google Domains, and made a simple ui, then pushed it to heroku!
 - it has Sign, Sign out and check content
   ![image](https://github.com/user-attachments/assets/b0adbf14-d3de-40b2-9233-d57492b38431)
@@ -53,6 +55,7 @@ It also has telegram bot!
 - Postgress sql
 - Flask
 
+# ==========================================
 # Karshah
 - This is, the beloved, (#تم_تعبئة_الكرش_بنجاح) bot, in Twitter!!
 - This bot will tweet the meme image at your account, based on your city's Magrib pray time!
@@ -69,6 +72,7 @@ It also has telegram bot!
 - Postgress sql
 - Flask
 
+# ==========================================
 # Private Exposer
 - This website is made to show you the private accounts that follow's you, but you dont follow them.
   ![image](https://github.com/user-attachments/assets/796b6c90-24bc-4473-870b-647a1a877d08)
@@ -80,6 +84,7 @@ It also has telegram bot!
 - Cloud services
 - Flask
 
+# ==========================================
 # Other
 ### I have made many other website based bots, one of them is troll website to take the api access keys from an account that I know his owner, then play with them as if I'm logged in to the account! lol.
 
@@ -94,6 +99,7 @@ This section is for bots that works using the Twitter bot account at Twitter!
 - I have built more than one Twitter Game bot, inspired by a youtuber who have made Snake bot in Twitter!
 
 
+# ==========================================
 ## **Connect 4**
 - The first one is Connect4 bot!
   This is the first game bot I have made, and it was amazing!
@@ -109,6 +115,7 @@ This section is for bots that works using the Twitter bot account at Twitter!
 - Algorithms
 - Image processing**
 
+# ==========================================
 # **Tic Tac Toe**
 ![image_2025-03-13_02-58-01](https://github.com/user-attachments/assets/06934222-fc14-4482-8af0-bbd752376704)
 
@@ -132,6 +139,7 @@ It handels Draw and Win conditions!
 
 I have made bots that are somehow usefull!
 
+# ==========================================
 ## **Color This**
   this is one of the best bots I have ever made, it takes any black and white photo, then color it using AI, then send the results back!
 
@@ -148,16 +156,31 @@ I have made bots that are somehow usefull!
 - AI
 
   
+# ==========================================
 ## **Pixel This**
-  this is one of the best bots I have ever made, it takes any black and white photo, then color it using AI, then send the results back!
-
-
-- Just mention the bot and it will work on the images!
-
+  - I really liked this bot, it takes any image, and give it this cool pixelart theme!
+  - This bot is based on my old project, [This](https://github.com/Wouze/pixelate), and have been extendet to [Video pixelator!](https://github.com/Wouze/video_pixlator)
+  - Just send the image and see the magic happens!
+    ![image](https://github.com/user-attachments/assets/7b291429-d726-486a-b3aa-f230c94adf52)
+    ![image](https://github.com/user-attachments/assets/4b56ad31-8ca5-4d94-aa5e-cfae43dfdc1d)
+  - Just mention the bot and it will work on the images!
+    ![image](https://github.com/user-attachments/assets/649c90eb-6d57-4d82-ae22-fd71b5791ff0)
+    ![image](https://github.com/user-attachments/assets/3f8d3d09-51b7-4f1e-9e7c-05680c7ef2cd)
 
 ### **🔧 Technologies Used 🔧**
 - Twitter API
 - Image processing
-- AI
+- PIL library
+- Numpy library
 
+# ==========================================
 ## Others
+#### I have made so much bots, that I have around 3~4 twitter developer accounts!
+- Twitter bot that retweet every tweet with specefic words
+- Freelanced Twitter bot that uses chatgpt to reply
+- Scrapnig bots
+- Logs bots
+- around 4~5 noise maker bots, that uses Twitter stream to filter out special words to reply with appropriate reply (like filter *basket ball related words* and reply with *basket ball teams/tournaments/etc..*, and at the same time, if someone figured out it was a bot, and told the bot "You are bot", the bot will reply that he is not a bot! those bots were the most funniest bots I have made ever
+
+# I Hope you enjoyed it!
+
